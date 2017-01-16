@@ -1,0 +1,44 @@
+.btn.epic:hover {
+    background-color: #b53fbf;
+    border-color: #b53fbf;
+    color: #fff;
+    text-shadow: 1px 1px rgba(255,255,255, 0.2);
+}
+
+.epic.commit-id:hover, .epic.commit-tease-sha:hover {
+    color: #b53fbf;
+}
+
+.epic {
+    color: #b53fbf;
+    text-shadow: 1px 1px rgba(0,0,0, 0.2);
+}
+
+.btn.legendary:hover {
+    background-color: #ff6347;
+    border-color: #ff6347;
+    color: #fff;
+    text-shadow: 1px 1px rgba(255,255,255, 0.2);
+}
+.legendary {
+    color: #ff6347;
+    text-shadow: 1px 1px rgba(0,0,0, 0.2);
+}
+
+.legendary.commit-id:hover, .legendary.commit-tease-sha:hover {
+    color: #ff6347;
+}
+
+.toast-success {
+  background-color: #ff6347;
+}
+
+.toast-info {
+  background-color: #b53fbf;
+}
+
+#toast-container > .toast-info {
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADsSURBVEhLY2AYBfQMgf///3P8+/evAIgvA/FsIF+BavYDDWMBGroaSMMBiE8VC7AZDrIFaMFnii3AZTjUgsUUWUDA8OdAH6iQbQEhw4HyGsPEcKBXBIC4ARhex4G4BsjmweU1soIFaGg/WtoFZRIZdEvIMhxkCCjXIVsATV6gFGACs4Rsw0EGgIIH3QJYJgHSARQZDrWAB+jawzgs+Q2UO49D7jnRSRGoEFRILcdmEMWGI0cm0JJ2QpYA1RDvcmzJEWhABhD/pqrL0S0CWuABKgnRki9lLseS7g2AlqwHWQSKH4oKLrILpRGhEQCw2LiRUIa4lwAAAABJRU5ErkJggg==") !important;
+}
+
+
